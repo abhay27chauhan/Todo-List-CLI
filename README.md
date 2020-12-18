@@ -1,6 +1,13 @@
-# CoronaSafe Engineering Fellowship Test Problem
+<h1 align="center" style="margin-top: -4px !important;">Todo List CLI</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/build-passing-brightgreen">
+  <img src="https://img.shields.io/badge/node-12.18.1-informational">
+  <img src="https://img.shields.io/badge/maintainer-abhay-informational">
+  <img src="https://img.shields.io/badge/os-mac-brightgreen">
+  <img src="https://img.shields.io/badge/contributions-welcome-brightgreen">
+</p>
 
-Thanks for applying to the CoronaSafe Engineering fellowship!
+This Script/Program is written as a part of CoronaSafe Engineering Fellowship Test Problem by Pupilfirst in the JavaScript Programming Language passing all the test cases as given in the todo.test.js file. Proof of all Test Cases passing is as shown below.
 
 In this step we want to see how you implement a command-line (CLI) program that lets you manage your todos.
 
