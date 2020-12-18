@@ -9,13 +9,15 @@
 
 This Script/Program is written as a part of CoronaSafe Engineering Fellowship Test Problem by Pupilfirst in the JavaScript Programming Language passing all the test cases as given in the todo.test.js file. Proof of all Test Cases passing is as shown below.
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/42849043/102615410-e2554300-415b-11eb-87a0-93fe0d5f2d05.png">
+</p>
+<br>
+
 In this step we want to see how you implement a command-line (CLI) program that lets you manage your todos.
 
 The specification for this problem is written down as tests. Since we haven’t actually implemented anything, the tests are currently failing. You have to solve the problem by implementing the application and getting all the tests to pass.
 
-Here's how it should work when you're done:
-
-[![Todo-CLI](https://res.cloudinary.com/sv-co/image/upload/v1607935139/fullstack-CEF/Todo-CLI/play-video-demo_fp50wp.png)](https://vimeo.com/490621534)
 ## Getting started
 
 1. Install Node.js: You need to have npm installed in your computer for this problem. It comes with Node.js and you can get it by installing Node from https://nodejs.org/en/
